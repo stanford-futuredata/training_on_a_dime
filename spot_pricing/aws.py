@@ -12,7 +12,7 @@ def get_spot_instance_prices(region, instance_type):
         f.write(output.decode())
 
 def main():
-    for region in ["us-east-1", "us-east-2", "us-west-1", "us-west-2"]:
+    for region in ["eu-central-1", "eu-west-1", "eu-west-2", "eu-west-3", "eu-north-1"]:
         for instance_type in ["p3.2xlarge", "p3.8xlarge", "p3.16xlarge",
                               "p2.xlarge", "p2.8xlarge", "p2.16xlarge"]:
             get_spot_instance_prices(region, instance_type)
