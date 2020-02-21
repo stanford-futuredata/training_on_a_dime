@@ -1,0 +1,117 @@
+{
+    "NextToken": "",
+    "SpotPriceHistory": [
+        {
+            "AvailabilityZone": "eu-west-2b",
+            "InstanceType": "p3.16xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "8.613600",
+            "Timestamp": "2020-03-12T17:38:17.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-west-2a",
+            "InstanceType": "p3.16xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "8.613600",
+            "Timestamp": "2020-03-12T17:38:17.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-west-2b",
+            "InstanceType": "p3.16xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "8.613600",
+            "Timestamp": "2020-03-11T21:36:17.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-west-2a",
+            "InstanceType": "p3.16xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "8.613600",
+            "Timestamp": "2020-03-11T21:36:17.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-west-2b",
+            "InstanceType": "p3.16xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "8.613600",
+            "Timestamp": "2020-03-10T21:36:01.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-west-2a",
+            "InstanceType": "p3.16xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "8.613600",
+            "Timestamp": "2020-03-10T21:36:01.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-west-2b",
+            "InstanceType": "p3.16xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "8.613600",
+            "Timestamp": "2020-03-09T21:37:34.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-west-2a",
+            "InstanceType": "p3.16xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "8.613600",
+            "Timestamp": "2020-03-09T21:37:34.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-west-2b",
+            "InstanceType": "p3.16xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "8.613600",
+            "Timestamp": "2020-03-08T21:38:32.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-west-2a",
+            "InstanceType": "p3.16xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "8.613600",
+            "Timestamp": "2020-03-08T21:38:32.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-west-2b",
+            "InstanceType": "p3.16xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "8.613600",
+            "Timestamp": "2020-03-07T21:38:16.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-west-2a",
+            "InstanceType": "p3.16xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "8.613600",
+            "Timestamp": "2020-03-07T21:38:16.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-west-2b",
+            "InstanceType": "p3.16xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "8.613600",
+            "Timestamp": "2020-03-06T22:37:31.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-west-2a",
+            "InstanceType": "p3.16xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "8.613600",
+            "Timestamp": "2020-03-06T22:37:31.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-west-2b",
+            "InstanceType": "p3.16xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "8.613600",
+            "Timestamp": "2020-03-05T22:38:15.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-west-2a",
+            "InstanceType": "p3.16xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "8.613600",
+            "Timestamp": "2020-03-05T22:38:15.000Z"
+        }
+    ]
+}

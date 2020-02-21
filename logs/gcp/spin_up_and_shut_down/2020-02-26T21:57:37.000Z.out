@@ -1,0 +1,7 @@
+Zone: us-west1-b, GPU type: nvidia-tesla-v100, Number of GPUs: 1, Price per hour: $0.851
+Zone: us-west1-b, GPU type: nvidia-tesla-v100, Number of GPUs: 2, Price per hour: $1.702
+Zone: us-west1-b, GPU type: nvidia-tesla-v100, Number of GPUs: 4, Price per hour: $3.404
+Zone: us-west1-b, GPU type: nvidia-tesla-v100, Number of GPUs: 8, Price per hour: $6.808
+Zone: us-west1-b, GPU type: nvidia-tesla-p100, Number of GPUs: 2, Price per hour: $0.989
+Zone: us-west1-b, GPU type: nvidia-tesla-p100, Number of GPUs: 4, Price per hour: $1.978
+Zone: us-west1-b, GPU type: nvidia-tesla-k80, Number of GPUs: 1, Price per hour: $0.155

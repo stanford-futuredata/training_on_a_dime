@@ -1,0 +1,467 @@
+{
+    "NextToken": "",
+    "SpotPriceHistory": [
+        {
+            "AvailabilityZone": "eu-west-1a",
+            "InstanceType": "p2.xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "0.320400",
+            "Timestamp": "2020-03-05T09:51:23.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-west-1c",
+            "InstanceType": "p2.xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "0.321900",
+            "Timestamp": "2020-03-05T06:39:40.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-west-1a",
+            "InstanceType": "p2.xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "0.321900",
+            "Timestamp": "2020-03-05T03:02:47.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-west-1a",
+            "InstanceType": "p2.xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "0.323000",
+            "Timestamp": "2020-03-04T21:19:22.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-west-1c",
+            "InstanceType": "p2.xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "0.322700",
+            "Timestamp": "2020-03-04T19:15:02.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-west-1b",
+            "InstanceType": "p2.xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "0.291600",
+            "Timestamp": "2020-03-04T16:44:35.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-west-1a",
+            "InstanceType": "p2.xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "0.324200",
+            "Timestamp": "2020-03-04T14:56:13.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-west-1c",
+            "InstanceType": "p2.xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "0.322200",
+            "Timestamp": "2020-03-04T12:00:04.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-west-1a",
+            "InstanceType": "p2.xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "0.325300",
+            "Timestamp": "2020-03-04T07:40:54.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-west-1c",
+            "InstanceType": "p2.xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "0.323000",
+            "Timestamp": "2020-03-04T06:25:22.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-west-1a",
+            "InstanceType": "p2.xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "0.327200",
+            "Timestamp": "2020-03-04T01:08:08.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-west-1c",
+            "InstanceType": "p2.xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "0.324500",
+            "Timestamp": "2020-03-03T23:11:07.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-west-1a",
+            "InstanceType": "p2.xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "0.328700",
+            "Timestamp": "2020-03-03T19:09:17.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-west-1b",
+            "InstanceType": "p2.xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "0.291600",
+            "Timestamp": "2020-03-03T16:44:16.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-west-1c",
+            "InstanceType": "p2.xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "0.325700",
+            "Timestamp": "2020-03-03T16:22:28.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-west-1a",
+            "InstanceType": "p2.xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "0.329100",
+            "Timestamp": "2020-03-03T12:53:50.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-west-1c",
+            "InstanceType": "p2.xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "0.325200",
+            "Timestamp": "2020-03-03T11:12:45.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-west-1a",
+            "InstanceType": "p2.xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "0.329600",
+            "Timestamp": "2020-03-03T07:01:59.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-west-1c",
+            "InstanceType": "p2.xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "0.326000",
+            "Timestamp": "2020-03-03T05:39:02.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-west-1a",
+            "InstanceType": "p2.xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "0.331600",
+            "Timestamp": "2020-03-03T01:36:27.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-west-1c",
+            "InstanceType": "p2.xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "0.327800",
+            "Timestamp": "2020-03-03T00:12:26.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-west-1a",
+            "InstanceType": "p2.xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "0.333400",
+            "Timestamp": "2020-03-02T19:11:38.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-west-1c",
+            "InstanceType": "p2.xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "0.329400",
+            "Timestamp": "2020-03-02T17:14:58.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-west-1b",
+            "InstanceType": "p2.xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "0.291600",
+            "Timestamp": "2020-03-02T16:43:55.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-west-1a",
+            "InstanceType": "p2.xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "0.335400",
+            "Timestamp": "2020-03-02T12:31:02.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-west-1c",
+            "InstanceType": "p2.xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "0.331100",
+            "Timestamp": "2020-03-02T11:16:23.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-west-1a",
+            "InstanceType": "p2.xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "0.338100",
+            "Timestamp": "2020-03-02T05:00:20.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-west-1c",
+            "InstanceType": "p2.xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "0.333800",
+            "Timestamp": "2020-03-02T04:26:47.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-west-1c",
+            "InstanceType": "p2.xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "0.335700",
+            "Timestamp": "2020-03-01T23:17:31.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-west-1a",
+            "InstanceType": "p2.xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "0.339600",
+            "Timestamp": "2020-03-01T22:18:56.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-west-1c",
+            "InstanceType": "p2.xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "0.337000",
+            "Timestamp": "2020-03-01T16:52:52.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-west-1b",
+            "InstanceType": "p2.xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "0.291600",
+            "Timestamp": "2020-03-01T16:43:28.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-west-1a",
+            "InstanceType": "p2.xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "0.340800",
+            "Timestamp": "2020-03-01T16:11:26.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-west-1c",
+            "InstanceType": "p2.xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "0.339000",
+            "Timestamp": "2020-03-01T10:37:24.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-west-1a",
+            "InstanceType": "p2.xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "0.343000",
+            "Timestamp": "2020-03-01T09:21:23.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-west-1a",
+            "InstanceType": "p2.xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "0.344000",
+            "Timestamp": "2020-03-01T04:30:08.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-west-1c",
+            "InstanceType": "p2.xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "0.340400",
+            "Timestamp": "2020-03-01T04:30:08.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-west-1a",
+            "InstanceType": "p2.xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "0.345800",
+            "Timestamp": "2020-02-29T21:40:46.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-west-1c",
+            "InstanceType": "p2.xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "0.342600",
+            "Timestamp": "2020-02-29T21:40:46.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-west-1b",
+            "InstanceType": "p2.xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "0.291600",
+            "Timestamp": "2020-02-29T16:42:34.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-west-1a",
+            "InstanceType": "p2.xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "0.347000",
+            "Timestamp": "2020-02-29T16:39:34.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-west-1c",
+            "InstanceType": "p2.xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "0.344500",
+            "Timestamp": "2020-02-29T14:34:04.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-west-1a",
+            "InstanceType": "p2.xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "0.347700",
+            "Timestamp": "2020-02-29T11:30:06.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-west-1c",
+            "InstanceType": "p2.xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "0.346200",
+            "Timestamp": "2020-02-29T08:00:55.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-west-1a",
+            "InstanceType": "p2.xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "0.349500",
+            "Timestamp": "2020-02-29T06:38:04.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-west-1c",
+            "InstanceType": "p2.xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "0.348000",
+            "Timestamp": "2020-02-29T02:44:25.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-west-1a",
+            "InstanceType": "p2.xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "0.350700",
+            "Timestamp": "2020-02-29T00:46:37.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-west-1c",
+            "InstanceType": "p2.xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "0.350500",
+            "Timestamp": "2020-02-28T20:44:50.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-west-1a",
+            "InstanceType": "p2.xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "0.352100",
+            "Timestamp": "2020-02-28T18:47:47.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-west-1b",
+            "InstanceType": "p2.xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "0.291600",
+            "Timestamp": "2020-02-28T16:42:01.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-west-1a",
+            "InstanceType": "p2.xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "0.354200",
+            "Timestamp": "2020-02-28T16:42:01.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-west-1c",
+            "InstanceType": "p2.xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "0.352100",
+            "Timestamp": "2020-02-28T16:42:01.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-west-1c",
+            "InstanceType": "p2.xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "0.352100",
+            "Timestamp": "2020-02-28T13:47:16.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-west-1a",
+            "InstanceType": "p2.xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "0.354200",
+            "Timestamp": "2020-02-28T11:33:04.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-west-1c",
+            "InstanceType": "p2.xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "0.353900",
+            "Timestamp": "2020-02-28T07:30:28.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-west-1a",
+            "InstanceType": "p2.xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "0.355600",
+            "Timestamp": "2020-02-28T06:57:30.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-west-1a",
+            "InstanceType": "p2.xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "0.357400",
+            "Timestamp": "2020-02-28T00:49:40.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-west-1c",
+            "InstanceType": "p2.xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "0.356100",
+            "Timestamp": "2020-02-28T00:24:56.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-west-1b",
+            "InstanceType": "p2.xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "0.291600",
+            "Timestamp": "2020-02-27T22:09:19.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-west-1a",
+            "InstanceType": "p2.xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "0.358800",
+            "Timestamp": "2020-02-27T18:50:17.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-west-1c",
+            "InstanceType": "p2.xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "0.358200",
+            "Timestamp": "2020-02-27T17:18:08.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-west-1a",
+            "InstanceType": "p2.xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "0.358700",
+            "Timestamp": "2020-02-27T11:52:20.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-west-1c",
+            "InstanceType": "p2.xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "0.359900",
+            "Timestamp": "2020-02-27T11:35:56.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-west-1c",
+            "InstanceType": "p2.xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "0.361400",
+            "Timestamp": "2020-02-27T05:37:06.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-west-1a",
+            "InstanceType": "p2.xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "0.360200",
+            "Timestamp": "2020-02-27T05:03:23.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-west-1b",
+            "InstanceType": "p2.xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "0.291600",
+            "Timestamp": "2020-02-26T22:08:47.000Z"
+        }
+    ]
+}

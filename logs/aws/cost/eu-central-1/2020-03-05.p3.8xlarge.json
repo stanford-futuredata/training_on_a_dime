@@ -1,0 +1,117 @@
+{
+    "NextToken": "",
+    "SpotPriceHistory": [
+        {
+            "AvailabilityZone": "eu-central-1b",
+            "InstanceType": "p3.8xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "4.587600",
+            "Timestamp": "2020-03-04T21:48:53.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-central-1a",
+            "InstanceType": "p3.8xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "4.587600",
+            "Timestamp": "2020-03-04T21:48:53.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-central-1b",
+            "InstanceType": "p3.8xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "4.587600",
+            "Timestamp": "2020-03-03T21:48:25.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-central-1a",
+            "InstanceType": "p3.8xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "4.587600",
+            "Timestamp": "2020-03-03T21:48:25.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-central-1b",
+            "InstanceType": "p3.8xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "4.587600",
+            "Timestamp": "2020-03-02T21:48:16.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-central-1a",
+            "InstanceType": "p3.8xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "4.587600",
+            "Timestamp": "2020-03-02T21:48:16.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-central-1b",
+            "InstanceType": "p3.8xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "4.587600",
+            "Timestamp": "2020-03-01T21:51:17.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-central-1a",
+            "InstanceType": "p3.8xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "4.587600",
+            "Timestamp": "2020-03-01T21:51:17.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-central-1b",
+            "InstanceType": "p3.8xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "4.587600",
+            "Timestamp": "2020-02-29T21:51:03.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-central-1a",
+            "InstanceType": "p3.8xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "4.587600",
+            "Timestamp": "2020-02-29T21:51:03.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-central-1b",
+            "InstanceType": "p3.8xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "4.587600",
+            "Timestamp": "2020-02-28T21:50:32.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-central-1a",
+            "InstanceType": "p3.8xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "4.587600",
+            "Timestamp": "2020-02-28T21:50:32.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-central-1b",
+            "InstanceType": "p3.8xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "4.587600",
+            "Timestamp": "2020-02-27T21:50:20.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-central-1a",
+            "InstanceType": "p3.8xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "4.587600",
+            "Timestamp": "2020-02-27T21:50:20.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-central-1b",
+            "InstanceType": "p3.8xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "4.587600",
+            "Timestamp": "2020-02-26T21:49:41.000Z"
+        },
+        {
+            "AvailabilityZone": "eu-central-1a",
+            "InstanceType": "p3.8xlarge",
+            "ProductDescription": "Linux/UNIX",
+            "SpotPrice": "4.587600",
+            "Timestamp": "2020-02-26T21:49:41.000Z"
+        }
+    ]
+}

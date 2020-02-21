@@ -1,0 +1,6 @@
+# Apple file system-related.
+.DS_Store
+
+# Python-related.
+.ipynb_checkpoints/
+__pycache__/
