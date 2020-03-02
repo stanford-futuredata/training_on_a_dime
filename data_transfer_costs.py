@@ -13,9 +13,7 @@ def aws(data_transfer_size):
     if not args.inter_region:
         data_transfer_cost = 0.01 * data_transfer_size
     else:
-        if args.continent == 'north_america':
-            data_transfer_cost = 0.02 * data_transfer_size
-        elif args.continent == 'europe':
+        if args.continent == 'north_america' or args.continent == 'europe':
             data_transfer_cost = 0.02 * data_transfer_size
         elif args.continent == 'asia':
             data_transfer_cost = 0.08 * data_transfer_size
