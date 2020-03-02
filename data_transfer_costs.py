@@ -8,6 +8,7 @@ continent_map = {
 }
 
 def aws(data_transfer_size):
+    # https://aws.amazon.com/ec2/pricing/on-demand/
     data_transfer_cost = 0.0
     if not args.inter_region:
         data_transfer_cost = 0.01 * data_transfer_size
@@ -24,6 +25,7 @@ def aws(data_transfer_size):
 
 
 def azure(data_transfer_size):
+    # https://azure.microsoft.com/en-us/pricing/details/bandwidth/
     data_transfer_cost = 0.0
     if not args.inter_region:
         if args.continent == 'north_america' or args.continent == 'europe':
@@ -68,6 +70,7 @@ def azure(data_transfer_size):
     return data_transfer_cost
 
 def gcp(data_transfer_size):
+    # https://cloud.google.com/compute/network-pricing
     data_transfer_cost = 0.0
     if not args.inter_region:
         if args.continent == 'north_america':
@@ -81,6 +84,7 @@ def gcp(data_transfer_size):
     return data_transfer_cost
 
 def main(args):
+    # Data transfer size in GB.
     data_transfer_size = args.model_size * args.num_transfers
     if args.transfer_dataset:
         data_transfer_size += args.dataset_size
@@ -98,23 +102,23 @@ def main(args):
         continent_type = 'in %s' % (continent_map[args.continent])
         print('%d %s transfers %s' % (args.num_transfers, transfer_type,
                                       continent_type))
-        print('')
+        print()
         print('-----')
-        print('')
+        print()
         print('Total data transfer size: %.2f GB' % (data_transfer_size))
-        print('')
+        print()
 
         print('AWS:')
         print('Data transfer cost: $%.2f' % (aws_results))
-        print('')
+        print()
 
         print('Azure:')
         print('Data transfer cost: $%.2f' % (azure_results))
-        print('')
+        print()
 
         print('GCP:')
         print('Data transfer cost: $%.2f' % (gcp_results))
-        print('')
+        print()
     else:
         print('%f,%f,%s,%s,%d,%f,%f,%f' % (args.dataset_size, args.model_size,
                                            args.inter_region, args.continent,
